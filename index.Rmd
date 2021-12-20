@@ -1,0 +1,17 @@
+---
+title: "Kelsey Biles"
+image: "kelsey.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+Biology PhD candidate with strong background in both field and lab research, as well as extensive teaching and mentorship experience. Expertise in ornithology, conservation, and aquatic ecology. Excellent writing and presentation skills; ability to adapt to changing work conditions and outdoor environs. 
